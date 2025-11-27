@@ -13,10 +13,7 @@
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+ 
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -774,5 +771,7 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
-#   P o r t f o l i o - f r o n t e n d - c i c d  
+#   P o r t f o l i o - f r o n t e n d - c i c d 
+ 
  "# cicd-portfolio-frontend" 
+
